@@ -1,0 +1,22 @@
+.odd-element {
+  background-color: lightpink;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.twentyfour-px {
+  font-size: 24px;
+}
+
+#second-element {
+  color: blue;
+  font-size: 36px;
+}
+
+#third-element {
+  font-weight: bold;
+}
+
+#fourth-element {
+  background-color: lightblue;
+  font-weight: bold;
+}
